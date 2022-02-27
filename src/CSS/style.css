@@ -1,0 +1,27 @@
+/* body {
+    background-image: url("../images/photo.jpg");
+    background-repeat: no-repeat;
+} */
+
+nav {
+    display: flex;
+    width: 100;
+    justify-content: center;
+    font-family: Arial, Helvetica, sans-serif;
+    padding: .2em;
+}
+
+nav a {
+    color: #7E2929;
+    margin: .2em 1em 0px 1em;
+}
+
+nav a:hover {
+    color: white;
+}
+
+.img-city {
+    width: 100%;
+    height: auto;
+    overflow: hidden;
+}
